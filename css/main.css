@@ -182,11 +182,17 @@ img-400 {
 }
 
 @media (max-width: 575px) {
+    h1.title {
+        font-size: 1.7rem;
+    }
     .main-container {
         padding: 20px;
     }
     body {
         font-size: 13px;
+    }
+    .hide-575{
+        display: none;
     }
 }
 
@@ -225,6 +231,7 @@ ul li {
     list-style-type: disc;
     list-style-position: inside;
     padding: 5px 0px;
+    font-size: 1rem;
 }
 
 /*override other css files*/
