@@ -134,28 +134,6 @@ h3 {
     }
 }
 
-.hidden {
-    display: none;
-}
-
-.profile {
-    border-radius: 50%;
-    display: block;
-    height: 200px;
-    margin: 0px auto;
-    width: 200px;
-}
-
-img-400 {
-    max-width: 400px;
-    width: 100%;
-}
-
-.inconspicuous {
-    color: var(--gray);
-    font-size: 0.85rem;
-}
-
 @media (max-width: 1250px) {
     .main {
         max-width: 630px;
@@ -191,7 +169,7 @@ img-400 {
     body {
         font-size: 13px;
     }
-    .hide-575{
+    .hide-575 {
         display: none;
     }
 }
@@ -215,12 +193,6 @@ img-400 {
     100% {
         transform: rotate(360deg);
     }
-}
-
-.img-400 {
-    display: block;
-    max-width: 400px;
-    width: 100%;
 }
 
 ul {
