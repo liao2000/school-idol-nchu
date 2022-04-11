@@ -1,4 +1,4 @@
-# 國立中興大學學園偶像同好會官方網站
+# 國立中興大學學園偶像社官方網站
 
 ![](https://img.shields.io/github/license/school-idol-nchu/school-idol-nchu.github.io?style=flat-square) ![](https://img.shields.io/github/last-commit/school-idol-nchu/school-idol-nchu.github.io?color=yellow&style=flat-square) ![](https://img.shields.io/github/languages/top/school-idol-nchu/school-idol-nchu.github.io?style=flat-square) 
 
